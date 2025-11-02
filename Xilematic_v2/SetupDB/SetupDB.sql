@@ -1,6 +1,4 @@
-﻿
-CREATE DATABASE QuanLyRapChieuPhim
-GO
+﻿GO
     USE QuanLyRapChieuPhim;
 
 GO

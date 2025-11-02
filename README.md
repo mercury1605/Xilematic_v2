@@ -144,7 +144,7 @@ sqlcmd -S localhost -Q "CREATE DATABASE QuanLyRapChieuPhim"
 sqlcmd -S localhost -d QuanLyRapChieuPhim -i SetupDB/SetupDB.sql
 
 # Import sample data (optional)
-sqlcmd -S localhost -d XilematicDB -i SetupDB/InsertData.sql
+sqlcmd -S localhost -d QuanLyRapChieuPhim -i SetupDB/InsertData.sql
 ```
 
 3. **Update configuration**
