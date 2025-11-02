@@ -157,7 +157,7 @@ DB_PASS = your_password
 
 4. **Build and run**
 ```bash
-mvn clean cargo:run
+mvn clean package cargo:run
 ```
 
 5. **Access the application**
