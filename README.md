@@ -157,8 +157,7 @@ DB_PASS = your_password
 
 4. **Build and run**
 ```bash
-mvn clean install
-mvn tomcat10:run
+mvn clean cargo:run
 ```
 
 5. **Access the application**
