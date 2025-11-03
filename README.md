@@ -130,7 +130,7 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/xilematic.git
+git clone https://github.com/mercury1605/Xilematic_v2.git
 cd Xilematic_v2
 ```
 
