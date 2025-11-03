@@ -7,7 +7,6 @@
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.microsoft.com/en-us/sql-server/sql-server-2022&ved=2ahUKEwjWq9zw-dOQAxWhsFYBHQdeCjsQFnoECA0QAQ&usg=AOvVaw0GMh9IsvpnCnNGkalJ5yZP)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
-[Video Demo](#)
 
 ---
 
